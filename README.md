@@ -16,6 +16,9 @@ Install [doghum](https://github.com/DokterW/doghum)
 
 ### Changelog
 
+#### 2018-07-27
+* Added account search.
+
 #### 2018-03-01
 * Fixed the TUI a bit to make it more clear and to make it ready for more features.
 
